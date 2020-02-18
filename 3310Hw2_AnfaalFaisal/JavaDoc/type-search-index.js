@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.wmich.cs3310.hw2.main","l":"DoublyLinkList"},{"p":"edu.wmich.cs3310.hw2.main","l":"Element"},{"p":"edu.wmich.cs3310.hw2.main","l":"Main"}]

@@ -1,0 +1,180 @@
+DNA sequence 1 : TAGUCTA
+This sequence does not contain  genetic palindromes
+DNA sequence 2 : CTAGUCTAA
+This sequence contain 1 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 2 is palindromic: 2 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 2 : 3 milliseconds
+DNA sequence 3 : TTAAATTCCTTTAGG
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 3 is palindromic: 3 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 3 : 4 milliseconds
+DNA sequence 4 : AGTCCGATCCGT
+This sequence contain 1 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 4 is palindromic: 2 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 4 : 2 milliseconds
+DNA sequence 5 : AAAAAATTTTTTGGGGGGCCCCCCGTTTTGGAACCAAAACCTTGCAAAACCUUG
+This sequence contain 12 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 5 is palindromic: 11 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 5 : 16 milliseconds
+DNA sequence 6 : GTTTTGGAACCAAAACCTTGCAAAACCUUG
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 6 is palindromic: 4 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 6 : 7 milliseconds
+DNA sequence 7 : CAAAACCTTGCAAAACCUUGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 7 is palindromic: 5 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 7 : 8 milliseconds
+DNA sequence 8 : CAAAACCTTGCAAAACCUUGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 8 is palindromic: 5 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 8 : 8 milliseconds
+DNA sequence 9 : CAAAACCUUGCAAAACCTTGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 9 is palindromic: 5 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 9 : 13 milliseconds
+DNA sequence 10 : CAAAACCUUGCAAAACCTTGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 10 is palindromic: 5 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 10 : 7 milliseconds
+DNA sequence 11 : TTTTGGAACCAACCTTGCAAAACCUUG
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 11 is palindromic: 4 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 11 : 6 milliseconds
+DNA sequence 12 : GTTTTGGAACCAAAACCTTGCAAAACCUUG
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 12 is palindromic: 4 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 12 : 6 milliseconds
+DNA sequence 13 : CAAAACCTTGCAAAACCUUGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 13 is palindromic: 4 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 13 : 6 milliseconds
+DNA sequence 14 : CAAAACCTTGCAAAACCUUGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 14 is palindromic: 4 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 14 : 5 milliseconds
+DNA sequence 15 : AAAACCUUGCAAAACCTTGGTTTTGGAA
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 15 is palindromic: 4 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 15 : 6 milliseconds
+DNA sequence 16 : CAAAACCUUGCAAATGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 16 is palindromic: 3 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 16 : 5 milliseconds
+DNA sequence 17 : GTTTTGGAACCAAAACCTTGCAAAACCUUG
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 17 is palindromic: 5 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 17 : 10 milliseconds
+DNA sequence 18 : GTTTTGGAACCAAAACCTTGCAAAACCUUG
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 18 is palindromic: 4 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 18 : 6 milliseconds
+DNA sequence 19 : CAAAACCTTGCAAAACCUUGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 19 is palindromic: 9 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 19 : 12 milliseconds
+DNA sequence 20 : CAAAACCTTGCAAAACCUUGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 20 is palindromic: 7 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 20 : 10 milliseconds
+DNA sequence 21 : CAAAACCUUGCAACTTGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 21 is palindromic: 4 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 21 : 6 milliseconds
+DNA sequence 22 : CAAAACCUUGCAAAACCTTGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 22 is palindromic: 5 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 22 : 7 milliseconds
+DNA sequence 23 : GTTTTGGAACCAAAACCTTGCAAAACCUUG
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 23 is palindromic: 4 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 23 : 9 milliseconds
+DNA sequence 24 : GTTTTGGAACCAAAACCTTGCAAAACCUUG
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 24 is palindromic: 3 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 24 : 6 milliseconds
+DNA sequence 25 : CAAAACCTTGCAAAACCUUGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 25 is palindromic: 2 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 25 : 4 milliseconds
+DNA sequence 26 : CAAAACCTTGCAAAACCUUGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 26 is palindromic: 3 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 26 : 11 milliseconds
+DNA sequence 27 : AAACCUUGCAAAACCTTGGTTTTGGA
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 27 is palindromic: 3 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 27 : 5 milliseconds
+DNA sequence 28 : CAAAACCUUGCAAAACCTTGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 28 is palindromic: 22 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 28 : 23 milliseconds
+DNA sequence 29 : GTTTTGGAACCAAAACCTTGCAAAACCUUG
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 29 is palindromic: 6 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 29 : 8 milliseconds
+DNA sequence 30 : GTTTTGGAACCAAAACCTTGCAAAACCUUG
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 30 is palindromic: 5 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 30 : 8 milliseconds
+DNA sequence 31 : CAAAACCTTGCAAAACCUUGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 31 is palindromic: 3 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 31 : 5 milliseconds
+DNA sequence 32 : CAAAACCTTGCAAAACCUUGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 32 is palindromic: 5 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 32 : 8 milliseconds
+DNA sequence 33 : CAAAACCUUGCAAAACCTTGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 33 is palindromic: 2 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 33 : 4 milliseconds
+DNA sequence 34 : CAAAACCUUGCAAAACCTTGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 34 is palindromic: 5 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 34 : 7 milliseconds
+DNA sequence 35 : GTTTTGGAACCAAAACCTTGCAAAACCUUG
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 35 is palindromic: 2 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 35 : 3 milliseconds
+DNA sequence 36 : GTTTTGGAACCAAAACCTTGCAAAACCUUG
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 36 is palindromic: 3 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 36 : 4 milliseconds
+DNA sequence 37 : CAAAACCTTGCAAAACCUUGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 37 is palindromic: 3 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 37 : 4 milliseconds
+DNA sequence 38 : CAAAACCTTGCAXAACCUUGGTTTTGGAAC
+CAAAACCTTGCAXAACCUUGGTTTTGGAAC contains characters that do not denote DNA molecules. Skipped.
+DNA sequence 39 : CAAAACCUUGCAAAACCTTGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 39 is palindromic: 2 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 39 : 2 milliseconds
+DNA sequence 40 : CAAAACCUUGCAAAACCTTGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 40 is palindromic: 2 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 40 : 3 milliseconds
+DNA sequence 41 : GTTTTGGAACCAAAACCTTGCAAAACCUUG
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 41 is palindromic: 2 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 41 : 3 milliseconds
+DNA sequence 42 : GTTTTGGAACCAAAACCTTGCAAAACCUUG
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 42 is palindromic: 1 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 42 : 3 milliseconds
+DNA sequence 43 : CAAAACCTTGCAAAACCUUGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 43 is palindromic: 2 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 43 : 3 milliseconds
+DNA sequence 44 : CAAAACCTTGCAAAACCUUGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 44 is palindromic: 2 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 44 : 3 milliseconds
+DNA sequence 45 : CAAAACCUUGCAAAACCTTGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 45 is palindromic: 2 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 45 : 3 milliseconds
+DNA sequence 46 : CAAAACCUUGCAAAACCTTGGTTTTGGAAC
+This sequence contain 2 genetic palindromes.
+time to test whether a genomic subsequence in Sequence 46 is palindromic: 2 milliseconds
+time to find all palindromic subsequences of length [4, 17] in Sequence 46 : 4 milliseconds
